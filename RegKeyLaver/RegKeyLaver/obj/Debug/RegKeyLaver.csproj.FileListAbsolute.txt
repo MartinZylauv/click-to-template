@@ -1,0 +1,6 @@
+c:\users\mzk\documents\visual studio 2015\Projects\RegKeyLaver\RegKeyLaver\bin\Debug\RegKeyLaver.exe.config
+c:\users\mzk\documents\visual studio 2015\Projects\RegKeyLaver\RegKeyLaver\bin\Debug\RegKeyLaver.exe
+c:\users\mzk\documents\visual studio 2015\Projects\RegKeyLaver\RegKeyLaver\bin\Debug\RegKeyLaver.pdb
+c:\users\mzk\documents\visual studio 2015\Projects\RegKeyLaver\RegKeyLaver\obj\Debug\RegKeyLaver.exe
+c:\users\mzk\documents\visual studio 2015\Projects\RegKeyLaver\RegKeyLaver\obj\Debug\RegKeyLaver.pdb
+C:\Users\MZK\documents\visual studio 2015\Projects\RegKeyLaver\RegKeyLaver\obj\Debug\RegKeyLaver.csprojResolveAssemblyReference.cache
